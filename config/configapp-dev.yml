@@ -1,4 +1,4 @@
 testconfig:
-  name: "perry"
+  name: perry
   age: 33
-  gender: "male"
+  gender: male
