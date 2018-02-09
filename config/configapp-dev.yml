@@ -1,4 +1,4 @@
-testconfig: tiger
- #name: perry
- #age: 33
- #gender: male
+testconfig: 
+  name: perry
+  age: 33
+  gender: male
